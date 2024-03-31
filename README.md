@@ -1,6 +1,6 @@
 <div align="center">
   
-### 👋 Welcome to my learning and coding space on the hub
+### 👋 Welcome to my learning and coding space
 
 I'm Christopher, a creative software developer passionate about solving problems and building ideas. The intersecting space between technology and creativity is where you will find me dabbling in projects that I use for creative expression. 
 
