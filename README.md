@@ -9,8 +9,8 @@ I'm Christopher, a creative software developer passionate about solving problems
 ### Currently ...
 
 <div align="start">
-🔭 Working on <b><a href="https://bargain-cyan.vercel.app/">bargain.online</a></b>, an online tool that allows shoppers to gain the best bargain while maintaining their budget. <br/>
-💡 Building enterprise solutions tailored to individual organizational needs across Africa.<br/>
+<!-- 🔭 Working on <b><a href="https://bargain-cyan.vercel.app/">bargain.online</a></b>, an online tool that allows shoppers to gain the best bargain while maintaining their budget. <br/>
+💡 Building enterprise solutions tailored to individual organizational needs across Africa.<br/> -->
 🌱 Learning to maximize product impact, focusing on the user experience then building up the technology solution.<br/>
 👯 looking to collaborate on open-source projects related to npm libraries, where I can contribute and learn from others in the community.<br/>
 </div>
